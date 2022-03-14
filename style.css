@@ -112,3 +112,16 @@ button {
     font-size: 18px;
     color: slategray;
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 100px 400px;
+}
+
+.quote-text {}
+
+.quote-author {
+    align-self: flex-end;
+}
