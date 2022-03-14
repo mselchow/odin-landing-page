@@ -6,7 +6,7 @@ The goal of this project is to create a landing page using HTML and CSS from scr
 
 ## Provided Design
 
-!https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png
+![Provided Design](https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png)
 
 ## Final Output
 
