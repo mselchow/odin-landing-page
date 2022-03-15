@@ -10,7 +10,7 @@ My implementation can also be viewed here: https://mselchow.github.io/odin-landi
 
 ## Final Output
 
-![Final Output](https://raw.github.com/mselchow/odin-landing-page/main/resources/finalpage.png)
+![Final Output](https://mselchow.github.io/odin-landing-page/images/finalpage.png)
 
 ## Provided Design
 
