@@ -17,7 +17,8 @@ body {
 }
 
 .header-links li,
-.hero-desc {
+.hero-desc,
+.cta-body {
     color: #E5E7EB;
     font-size: 18px;
 }
@@ -137,7 +138,18 @@ button {
 .calltoaction {
     display: flex;
     justify-content: space-between;
-    margin: 100px 200px;
-    padding: 60px 80px;
+    margin: 100px 250px;
+    padding: 60px 100px;
     background-color: #3882F6;
+    border-radius: 15px;
+}
+
+.cta-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+.cta-button {
+    border: 2px solid white;
 }
