@@ -18,7 +18,8 @@ body {
 
 .header-links li,
 .hero-desc,
-.cta-body {
+.cta-body,
+.footer {
     color: #E5E7EB;
     font-size: 18px;
 }
@@ -152,4 +153,10 @@ button {
 
 .cta-button {
     border: 2px solid white;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 40px 0px;
 }
