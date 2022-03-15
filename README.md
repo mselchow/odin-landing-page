@@ -10,7 +10,7 @@ My implementation can also be viewed here: https://mselchow.github.io/odin-landi
 
 ## Final Output
 
-TBD
+![Final Output](/resources/finalpage.png)
 
 ## Provided Design
 
