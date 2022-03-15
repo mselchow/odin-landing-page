@@ -133,3 +133,11 @@ button {
     font-size: 24px;
     font-weight: bold;
 }
+
+.calltoaction {
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 200px;
+    padding: 60px 80px;
+    background-color: #3882F6;
+}
